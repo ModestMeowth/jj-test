@@ -1,3 +1,2 @@
 # jj-tutorial
-
-This is a toy repository for learning Jujutsu.
+hello.py contains a script that greets the world.
